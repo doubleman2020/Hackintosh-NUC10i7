@@ -12,5 +12,5 @@ Audio Care:ALC256
 
 Display:DELL P2219H,Using HDMI
 
-Known Issues:Wi-Fi,HDMI Audio，Front Type-C USB3.0
+Known Issues:Wi-Fi,HDMI Audio,Front Type-C USB3.0
 
